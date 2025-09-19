@@ -44,6 +44,8 @@
 
 🔹 **Machine Learning Models** – Predictive analytics using scikit-learn & TensorFlow
 
+🔹 **Python apps** – Applications created in Python
+
 🔹 **Data Dashboards** – Interactive BI dashboards in Power BI & Excel
 
 🔹 **Big Data Pipelines** – Data engineering and analytics with Databricks & PySpark
