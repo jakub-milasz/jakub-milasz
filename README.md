@@ -53,8 +53,6 @@
 
 🔹 **Web Apps** – React-based projects with clean UI & responsive design
 
-➡️ Check out my pinned repositories below 👇
-
 ---
 
 ## 📬 Let's Connect
@@ -66,3 +64,7 @@
 ---
 
 ✨ *"Turning data into knowledge and ideas into applications."* ✨
+
+---
+
+➡️ Check out my pinned repositories below 👇
