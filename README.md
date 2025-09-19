@@ -1,4 +1,4 @@
-# 👋 Hi, I'm \[Your Name]
+# 👋 Hi, I'm Jakub
 
 🎓 Engineering & Data Analysis student passionate about **AI, Machine Learning, and Full-Stack Development**. I enjoy turning data into insights and building web apps that solve real-world problems.
 
